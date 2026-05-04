@@ -22,7 +22,7 @@ Background in SOC/CSIRT analysis at BNP Paribas WM, now fully focused on finding
 |---|----------|------|------|:--------:|:----:|:------:|:---:|:----:|--------|
 | 01 | **PasswordStore** | Access Control | Apr 2025 | — | 2 | — | 1 | 2 | [📄 View](./2025-04-passwordstore/report.md) |
 | 02 | **PuppyRaffle** | NFT Raffle | Apr 2025 | — | 2 | 2 | 2 | 2 | [📄 View](./2025-04-puppyraffle/report.md) |
-| 03 | **TSwap** | AMM / DEX | May 2025 | 1 | 4 | 1 | 2 | 5 | [📄 View](./2025-05-tswap/report.md) |
+| 03 | **TSwap** | AMM / DEX | May 2025 | 1 | 4 | 1 | 2 | 5 | [📄 View](2025-05-tswap/report.md) |
 
 ---
 
